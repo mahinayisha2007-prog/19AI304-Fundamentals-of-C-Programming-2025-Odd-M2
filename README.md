@@ -294,6 +294,7 @@ for(i = 1; i <= 5; i++) {
 }
 
 return 0;
+}
 ```
 
 # Output:
